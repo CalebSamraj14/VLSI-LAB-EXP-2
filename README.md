@@ -1,13 +1,12 @@
-~~~
+
 SIMULATION AND IMPLEMENTATION OF  COMBINATIONAL LOGIC CIRCUITS
 
 AIM: 
  To simulate and synthesis ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR using Xilinx ISE.
 
 APPARATUS REQUIRED:
-Xilinx 14.7
-Spartan6 FPGA
-~~~
+
+vivado 2023.3
 
 **LOGIC DIAGRAM**
 
@@ -191,5 +190,5 @@ STEP:11  On the board, by giving required input, the LEDs starts to glow light, 
 
 RESULT
 
- simulation and synthesis ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR using Xilinx ISE is verified.
+ simulation and synthesis ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR using vivado is verified.
 
